@@ -1,4 +1,32 @@
-# Canal Expertos Tech
+### Tree
+
+```bash
+.
+└── autenticacao
+    └── jwt
+        ├── AutenticacaoJwtApplication.java
+        ├── controller
+        │   └── UsuarioController.java
+        ├── data
+        │   └── DetalheUsuarioData.java
+        ├── model
+        │   └── UsuarioModel.java
+        ├── repository
+        │   └── UsuarioRepository.java
+        ├── security
+        │   ├── JWTAutenticarFilter.java
+        │   ├── JWTConfiguracao.java
+        │   └── JWTValidarFilter.java
+        └── services
+            └── DetalheUsuarioServiceImpl.java
+```
+Título: COMO CRIAR UM TOKEN JWT COM JAVA, SPRING BOOT, SPRING SECURITY E AUTH0 | API REST
+
+![image](https://user-images.githubusercontent.com/12356493/142676839-90ce1201-8e18-41ae-8819-5a0fe1227f86.png)
+
+Canal: Expertos Tech
+
+Youtube:
 
 **Vídeo tutorial:** </br>
 Parte 1: https://youtu.be/WM8Ty4ITcFc<br>
